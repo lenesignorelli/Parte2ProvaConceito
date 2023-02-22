@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Paytone One';
+    font-size: 20px;
+}
+
+.galeria{
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 80px;
+}
+
+.galeria img{
+    cursor: pointer;
+    opacity: 0.7;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    border: 1px  solid #000;
+}
+
+.galeria img:hover{
+    opacity: 1;
+}
+
+.container{
+    position: relative;
+    display: none;
+    width: 50%;
+    margin: auto;
+}
+
+.container img{
+    width: 100%;
+}
+
+.btnFechar{
+    position: absolute;
+    top: 5px;
+    right: 30px;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+/*.navbar-brand{
+    color: rgb(93, 187, 93);
+}*/
+
+/*about style*/
+section{
+    margin-top: 80px;
+    margin-left: 20px;
+}
