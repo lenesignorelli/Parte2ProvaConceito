@@ -8,7 +8,7 @@ Com bootstrap 4, insira uma nav bar que permita navergamos entre a página sobre
 
 Estruture uma nova página sobre.html para o conteúdo sobre o autor do flog:
 
-![image](https://user-images.githubusercontent.com/74387784/220737958-e3f05b54-6624-41e9-9479-92cbd577dfba.png)
+![image](https://user-images.githubusercontent.com/74387784/220739380-47fa20ce-af1a-4040-8753-b63fa72af16d.png)
 ## Tecnologias utilizadas:
 - HTML 5
 - CSS 3
